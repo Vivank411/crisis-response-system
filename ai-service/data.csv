@@ -1,0 +1,8 @@
+text,label
+fire in room,Fire
+smoke detected,Fire
+help someone fainted,Medical
+person unconscious,Medical
+someone attacking,Security
+fight happening,Security
+need help,General
